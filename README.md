@@ -2,7 +2,7 @@
 - 👀 I’m interested in making android apps using xamarin
 - 🌱 I’m currently learning to develop c# apps and c# based game modifications.
 - 💞️ I’m looking to collaborate on game development in unity or other c# projects.
-- 📫 How to reach me - manderz11biz@gmail.com or manderz11#1299 on discord
+- 📫 How to reach me - manderz11biz@gmail.com or on my [community discord server](https://discord.gg/ZWsQkf689J) in the plugins and mods category
 
 <!---
 manderz11/manderz11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
